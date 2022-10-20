@@ -194,6 +194,7 @@
 - Systemd (`systemd`)
 - Syzlang (`syzlang`)
 - Syzprog (`syzprog`)
+- Talon ('talon')
 - TAP (`tap`)
 - Tcl (`tcl`)
 - Terraform (`terraform`)
